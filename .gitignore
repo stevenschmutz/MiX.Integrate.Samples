@@ -241,4 +241,5 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 
+.DS_Store
 /MiX.Integrate.Samples.zip
